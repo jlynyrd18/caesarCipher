@@ -1,0 +1,20 @@
+{
+  "name": "caesarcipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-exercise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlynyrd18/caesarCipher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlynyrd18/caesarCipher/issues"
+  },
+  "homepage": "https://github.com/jlynyrd18/caesarCipher#readme"
+}
