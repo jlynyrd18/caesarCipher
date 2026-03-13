@@ -1,4 +1,4 @@
-const {sum, capitalize, reverse, calculator, cipher} = require('./sum');
+const {sum, capitalize, reverse, calculator, cipher} = require('./jest-exercise');
 
 test('adds 1 + 2 to equal 3', () => {
     expect(sum(1,2)).toBe(3);
