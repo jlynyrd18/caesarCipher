@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jlynyrd18/caesarCipher/issues"
   },
-  "homepage": "https://github.com/jlynyrd18/caesarCipher#readme"
+  "homepage": "https://github.com/jlynyrd18/caesarCipher#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.0"
+  }
 }
